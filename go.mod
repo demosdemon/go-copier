@@ -1,5 +1,5 @@
 module github.com/demosdemon/go-copier
 
-require (
-	github.com/hashicorp/go-multierror v1.0.0
-)
+go 1.14
+
+require github.com/hashicorp/go-multierror v1.1.0
